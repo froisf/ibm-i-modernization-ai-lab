@@ -16,3 +16,12 @@ Este projeto tem como objetivo prever a evasão de clientes (Churn) em uma empre
 ## 📸 Evidências
 ![Métricas do Modelo](assets/metricas.png)
 ![Métricas Adicionais](assets/metricas2.png)
+
+## 🔮 Próximos Passos (Roadmap)
+
+Este projeto é um laboratório vivo e está em constante evolução. Os próximos passos planejados são:
+
+- [ ] **Implantação do Modelo (Deploy):** Publicar o melhor pipeline (P5 - Snap ML) como um serviço web no IBM Watson Machine Learning.
+- [ ] **Criação da API REST:** Gerar um endpoint de API para que o modelo possa receber novos dados e retornar previsões de Churn em tempo real.
+- [ ] **Integração com IBM i:** Consumir essa API a partir de um programa RPG ou Java no sistema IBM i (AS/400), demonstrando a modernização na prática.
+- [ ] **Documentação da API:** Adicionar exemplos de como chamar a API usando Python e RPG.
