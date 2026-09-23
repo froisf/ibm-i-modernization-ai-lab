@@ -14,3 +14,5 @@ Este projeto tem como objetivo prever a evasão de clientes (Churn) em uma empre
 *   *[Escreva aqui as métricas que você viu no print, ex: Acurácia de 85%]*
 
 ## 📸 Evidências
+![Métricas do Modelo](assets/metricas.png)
+![Métricas Adicionais](assets/metricas2.png)
