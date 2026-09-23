@@ -47,3 +47,7 @@ Sugestões, dúvidas e contribuições são sempre bem-vindas! Fique à vontade 
 
 ---
 *"Unindo a robustez do legado à inovação do ecossistema Cloud."*
+## 📚 Caderno de Estudos
+*   [Estudos em Java para IBM i](docs/estudos/java/README.md)
+*   [Estudos em Rust](docs/estudos/rust/README.md)
+*   [Estudos em Arquitetura Orientada a Eventos (EDA)](docs/estudos/eda/README.md)
