@@ -38,6 +38,9 @@ Sugestões, dúvidas e contribuições são sempre bem-vindas! Fique à vontade 
 
 ## 👨‍💻 Autor
 
+## 🚀 Projetos Práticos
+*   [Projeto: Previsão de Churn com AutoAI e Snap ML](docs/projetos/telco-churn/README.md)
+*   
 **Flávio Frois**
 *   LinkedIn: [www.linkedin.com/in/flaviofrois](https://www.linkedin.com/in/flaviofrois)
 *   GitHub: [github.com/froisf](https://github.com/froisf)
