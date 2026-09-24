@@ -36,18 +36,19 @@ Se você é um profissional de IBM i (AS400/RPG) buscando entender como a IA pod
 
 Sugestões, dúvidas e contribuições são sempre bem-vindas! Fique à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
-## 👨‍💻 Autor
-
 ## 🚀 Projetos Práticos
 *   [Projeto: Previsão de Churn com AutoAI e Snap ML](docs/projetos/telco-churn/README.md)
-*   
+*   [PoC: Modernização de Cadastro de Transportadora (RPG ILE → Java/IA)](docs/projetos/poc-modernizacao-rpg/README.md)
+
+## 👨‍💻 Autor
+
 **Flávio Frois**
+
 *   LinkedIn: [www.linkedin.com/in/flaviofrois](https://www.linkedin.com/in/flaviofrois)
 *   GitHub: [github.com/froisf](https://github.com/froisf)
 
----
-*"Unindo a robustez do legado à inovação do ecossistema Cloud."*
 ## 📚 Caderno de Estudos
 *   [Estudos em Java para IBM i](docs/estudos/java/README.md)
 *   [Estudos em Rust](docs/estudos/rust/README.md)
 *   [Estudos em Arquitetura Orientada a Eventos (EDA)](docs/estudos/eda/README.md)
+*   [Estudos em Reversa (Engenharia Reversa com IA)](docs/estudos/reversa/README.md)   
